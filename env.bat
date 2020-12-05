@@ -1,4 +1,4 @@
-set DBHOST=localhost
-set DBUSER=manager
+set DBHOST=djangopollsdb
+set DBUSER=manger
 set DBNAME=pollsdb
-set DBPASS=supersecretpass
+set DBPASS=managerpass1#

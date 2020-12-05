@@ -1,4 +1,4 @@
-$Env:DBHOST = "localhost"
-$Env:DBUSER = "manager"
+$Env:DBHOST = "djangopollsdb"
+$Env:DBUSER = "manger"
 $Env:DBNAME = "pollsdb"
-$Env:DBPASS = "supersecretpass"
+$Env:DBPASS = "managerpass1#"

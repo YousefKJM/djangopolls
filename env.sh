@@ -1,5 +1,4 @@
-export DBHOST="localhost"
-export DBUSER="manager"
+export DBHOST="djangopollsdb"
+export DBUSER="manger"
 export DBNAME="pollsdb"
-export DBPASS="supersecretpass"
-
+export DBPASS="managerpass1#"
