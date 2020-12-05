@@ -106,6 +106,7 @@ polls_venv/
 # mkdocs documentation
 /site
 
+.DS_Store
 # mypy
 .mypy_cache/
 .dmypy.json
